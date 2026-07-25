@@ -1,0 +1,23 @@
+# dependencies
+/node_modules
+/.pnp
+.pnp.*
+
+# testing
+/coverage
+
+# next.js
+/.next/
+/out/
+
+# production
+/build
+
+# env files
+.env
+.env.local
+.env.*.local
+
+# OS
+.DS_Store
+*.log
